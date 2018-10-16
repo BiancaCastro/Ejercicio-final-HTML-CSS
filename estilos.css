@@ -59,7 +59,7 @@ nav {
     height:400px;
     color:white;
     background-color:rgb(32, 101, 136);
-    background-image: url("file:///Users/BiancaCastro/Desktop/IRONHACK/Ejercicios/Ejercicio%20final%20HTML:CSS/images/city-scape.svg");
+    background-image: url("images/city-scape.svg");
     repeat: no-repeat;
     background-size:cover;
     size:cover;
@@ -203,7 +203,7 @@ padding-top:10px;
     }
 
     #what-is{
-        background-image: url("file:///Users/BiancaCastro/Desktop/IRONHACK/Ejercicios/Ejercicio%20final%20HTML:CSS/images/forklift.svg");
+        background-image: url("images/forklift.svg");
         background-size:cover;
         position:relative;
         height: 300px;
